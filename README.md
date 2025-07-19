@@ -38,14 +38,7 @@ Projects involving full-stack development, healthcare tech, educational platform
 
 ## 💼 Experience
 
-### 🟢 **CuriousStepss.in | Full Stack Developer**  
-**Chandigarh, India | Aug 2024 – Present**  
-- Developed a full-stack web app for career guidance targeting students (6th–10th grade).  
-- Led a **4-member team** to solve real-world challenges during NSS campaigns.  
-- **Demo:** [https://startup-bihar.vercel.app/](https://startup-bihar.vercel.app/)  
-  - Credentials:  
-    - Email: pran2535kumr@gmail.com  
-    - Password: pran2535  
+
 
 ### 🟢 **Mishra Healthcare Limited | Full Stack Developer (MERN)**  
 **July 2024 – Aug 2024**  
